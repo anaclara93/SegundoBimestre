@@ -1,2 +1,2 @@
 # SegundoBimestre
-Matérias aula
+Códigos feitos em sala.
